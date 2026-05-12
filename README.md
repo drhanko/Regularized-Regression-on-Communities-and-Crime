@@ -1,4 +1,4 @@
-# 📊 Regularized Regression on Communities and Crime
+# 📊 Crime-rate-prediction-model-comparison
 
 A machine learning project focused on predicting crime rates using **regularized regression and ensemble learning techniques**. This project demonstrates end-to-end data processing, feature analysis, and model comparison on a high-dimensional real-world dataset.
 
